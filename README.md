@@ -7,7 +7,7 @@
 
 ## https://github.com/Oorozcoh/Secre
 
-## Resumenen
+## Resumen
 VotaConCiencia es una plataforma tecnológica orientada a optimizar la gestión, recolección y análisis preliminar de propuestas estudiantiles en el entorno escolar. Utilizando un enfoque Full Stack combinado con inteligencia artificial generativa, el sistema permite a los candidatos postular sus iniciativas, autenticarse de forma segura mediante un portal dedicado y someter sus ideas a un análisis automatizado de viabilidad operativa mediante modelos de lenguaje avanzados. Este proyecto se presenta como una Prueba de Concepto (PoC) integral que une el desarrollo web con técnicas avanzadas de *fast prompting*.
 
 ---
